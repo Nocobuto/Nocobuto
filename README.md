@@ -4,7 +4,7 @@ I'm a **Software Developer** passionate about building clean, scalable, and user
 I enjoy transforming ideas into functional digital experiences by combining solid engineering principles with thoughtful design.
 
 - 🔭 Currently working on interactive and responsive web projects  
-- 🌱 Learning **Swift** and **TypeScript** to expand my cross-platform development skills  
+- 🌱 Learning **Python** and **MYSQL** to expand my cross-platform development skills  
 - 💬 Feel free to ask me about **HTML, CSS, and JavaScript**
 
 ---
