@@ -11,20 +11,17 @@ I enjoy transforming ideas into functional digital experiences by combining soli
 
 ## 📊 GitHub Stats
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rheinatamara&theme=dark&show_icons=true&count_private=true" />
-  <br />
-  <img title="🔥 GitHub Streak Stats" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rheinatamara&theme=radical&hide_border=false" /> 
-</td>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nocobuto&show_icons=true&theme=dark&count_private=true" />
+</p>
 
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rheinatamara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nocobuto&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nocobuto&layout=compact&theme=dark" />
+</p>
 
 ---
 
