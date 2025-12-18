@@ -1,6 +1,6 @@
 ## Hi, I'm Arturo 👋  
 
-I'm a **Full Stack Developer** passionate about building clean, scalable, and user-focused web applications.  
+I'm a **Software Developer** passionate about building clean, scalable, and user-focused web applications.  
 I enjoy transforming ideas into functional digital experiences by combining solid engineering principles with thoughtful design.
 
 - 🔭 Currently working on interactive and responsive web projects  
