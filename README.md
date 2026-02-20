@@ -45,6 +45,12 @@ from scratch — from database design to deployed frontend.
 
 **Stack:** Node.js · Express · MySQL · JWT · Postman
 
+<p align="center">
+  <a href="https://github.com/Nocobuto/api-rest">
+    <img src="https://raw.githubusercontent.com/Nocobuto/Nocobuto/main/images/api-rest.png" width="800"/>
+  </a>
+</p>
+
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-1f6feb?style=for-the-badge&logo=github)](https://github.com/Nocobuto/api-rest)
 
 ---
@@ -56,8 +62,13 @@ from scratch — from database design to deployed frontend.
 
 **Stack:** Vanilla JavaScript · HTML5 Canvas · CSS3
 
+<p align="center">
+  <a href="https://github.com/Nocobuto/space-invaders-pro">
+    <img src="https://raw.githubusercontent.com/Nocobuto/Nocobuto/main/images/space-invaders.png" width="800"/>
+  </a>
+</p>
+
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-1f6feb?style=for-the-badge&logo=github)](https://github.com/Nocobuto/space-invaders-pro)
-[![Live](https://img.shields.io/badge/Live-Play%20Now-success?style=for-the-badge&logo=vercel)](https://landing-page-red-gamma-59.vercel.app)
 
 ---
 
@@ -66,6 +77,12 @@ from scratch — from database design to deployed frontend.
 > and clean UI. Frontend deployed on Vercel, backend on Railway.
 
 **Stack:** React · Node.js · Express · MySQL
+
+<p align="center">
+  <a href="https://github.com/Nocobuto/url-shortener">
+    <img src="https://raw.githubusercontent.com/Nocobuto/Nocobuto/main/images/url-shortener.png" width="800"/>
+  </a>
+</p>
 
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-1f6feb?style=for-the-badge&logo=github)](https://github.com/Nocobuto/url-shortener)
 [![Live](https://img.shields.io/badge/Live-Visit%20App-success?style=for-the-badge&logo=vercel)](https://landing-page-red-gamma-59.vercel.app)
@@ -101,7 +118,7 @@ from scratch — from database design to deployed frontend.
 ## 🧩 Engineering Approach
 ```text
 Clean Code       ████████████████████  Always
-Component Design ████████████████████  Always  
+Component Design ████████████████████  Always
 REST Principles  ███████████████░░░░░  Strong
 Testing          ████████░░░░░░░░░░░░  Growing
 System Design    ███████░░░░░░░░░░░░░  Growing
@@ -135,6 +152,10 @@ System Design    ███████░░░░░░░░░░░░░  G
   <a href="https://landing-page-red-gamma-59.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=vercel" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nocobuto&color=1f6feb&style=for-the-badge" />
 </p>
 
 <p align="center">
