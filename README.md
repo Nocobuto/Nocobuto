@@ -1,145 +1,104 @@
-<!-- BANNER -->
+# 👋 Hi, I'm Angel
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Arturo%20Bracamontes&fontSize=40&fontColor=ffffff" />
-</p>
+### 💻 Full Stack Engineer
 
-<!-- TYPING EFFECT -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1F6FEB&size=24&center=true&vCenter=true&width=650&lines=Software+Developer;Frontend+Specialist;Full+Stack+Engineer;Building+scalable+web+applications" />
-</p>
+Backend-focused developer specialized in building REST APIs, database-driven systems, and scalable web applications using Java, Spring Boot, and modern web technologies.
 
 ---
 
-# 👋 Hi, I'm Arturo
+## 🚀 About Me
 
-💻 **Full Stack Developer specialized in building scalable web systems and intuitive user interfaces that improve usability, performance, and maintainability.**
+I am a software developer focused on backend development, clean architecture, and scalable solutions.
+I enjoy designing APIs, working with relational databases, and building applications that solve real-world problems.
 
-I focus on writing clean, production-ready code and designing applications that solve real problems while delivering solid user experiences.
-
----
-
-## 🚀 What I Bring to a Team
-
-* Clean, maintainable, and readable code practices
-* Strong frontend logic and responsive design mindset
-* Backend structure understanding and API design fundamentals
-* Problem-solving approach focused on real-world solutions
-* Continuous learning mentality and fast adaptation to new stacks
+* 🔧 Backend development with **Java & Spring Boot**
+* 🌐 Building REST APIs and database-backed systems
+* 🧠 Passionate about clean code and software architecture
+* 📍 Based in Mexico
+* 💼 Open to junior backend or full-stack opportunities
 
 ---
 
-## 🔭 Currently Working On
+## 🛠 Tech Stack
 
-* Improving backend architecture patterns
-* Practicing database design and query optimization
-* Building portfolio projects with production structure
-* Strengthening full stack integration skills
+### Backend
 
----
+* Java
+* Spring Boot
+* RESTful API Design
+* MySQL
 
-## 🧭 Learning Roadmap
+### Frontend
 
-* Authentication & security patterns
-* Testing strategies for web applications
-* Deployment pipelines and hosting workflows
-* System design fundamentals for scalable apps
+* HTML
+* CSS
+* JavaScript
 
----
+### Tools & Workflow
 
-## 🌐 Portfolio
-
-🔗 https://landing-page-red-gamma-59.vercel.app
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arturo-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/arturo-bracamontes)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://stats-github-readme.vercel.app/api?username=Nocobuto&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nocobuto&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=Nocobuto&layout=compact&theme=dark" />
-</p>
+* Git & GitHub
+* Postman
+* IntelliJ IDEA
+* MySQL Workbench
+* Agile & iterative development practices
 
 ---
 
-# ⭐ Featured Projects
+## 📂 Featured Projects
 
-## 🔹 REST API Backend System
+### 🔗 API REST
 
-Backend API implementing routing, modular structure, and REST architecture principles.
+Backend service built with Spring Boot implementing CRUD operations, layered architecture, and database persistence.
 
-<a href="https://github.com/Nocobuto/api-rest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nocobuto&repo=api-rest&theme=dark" />
-</a>
+➡️ https://github.com/TU-USUARIO/api-rest
 
 ---
 
-## 🔹 Space Invaders Browser Game
+### 👾 Space Invaders Pro
 
-Interactive browser game demonstrating event handling, game loops, and dynamic rendering logic.
+Browser-based JavaScript game featuring DOM manipulation, event handling, and interactive gameplay logic.
 
-<a href="https://github.com/Nocobuto/space-invaders-pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nocobuto&repo=space-invaders-pro&theme=dark" />
-</a>
+➡️ https://github.com/TU-USUARIO/space-invaders-pro
 
 ---
 
-## 🔹 URL Shortener Web Application
+### 🔗 URL Shortener
 
-Application handling routing logic, validation, and dynamic URL redirection flow.
+Web application that generates and stores shortened URLs with backend persistence and validation logic.
 
-<a href="https://github.com/Nocobuto/url-shortener">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nocobuto&repo=url-shortener&theme=dark" />
-</a>
+➡️ https://github.com/TU-USUARIO/url-shortener
 
 ---
 
-## 🧠 Tech Stack
+## 📊 GitHub Activity
 
-<details>
-<summary>Frontend</summary>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO\&show_icons=true\&theme=tokyonight)
 
-<br>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-
-</details>
-
-<details>
-<summary>Backend</summary>
-
-<br>
-
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-</details>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO\&layout=compact\&theme=tokyonight)
 
 ---
 
-<p align="center">
-⭐ If you like my work, follow me and explore my repositories
-</p>
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nocobuto&color=1f6feb&style=for-the-badge" />
-</p>
+* Improving backend architecture skills
+* Deepening Spring Boot knowledge
+* Designing scalable REST APIs
+* Preparing for professional backend roles
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
-</p>
+---
 
+## 📫 Contact
+
+* 💼 LinkedIn: https://linkedin.com/in/TU-PERFIL
+* 📧 Email: TU-CORREO
+
+---
+
+## ⭐ Professional Mindset
+
+I believe in continuous learning, writing maintainable code, and building software that provides real value.
+Every project I create is an opportunity to improve architecture, readability, and performance.
+
+---
+
+*Always learning. Always building. Always improving.*
