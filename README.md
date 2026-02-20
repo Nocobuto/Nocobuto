@@ -40,7 +40,7 @@ I enjoy designing APIs, working with relational databases, and building applicat
 * Postman
 * IntelliJ IDEA
 * MySQL Workbench
-* Agile & iterative development practices
+* Agile practices
 
 ---
 
@@ -72,9 +72,17 @@ Web application that generates and stores shortened URLs with backend persistenc
 
 ## 📊 GitHub Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -102,3 +110,4 @@ Every project I create is an opportunity to improve architecture, readability, a
 ---
 
 *Always learning. Always building. Always improving.*
+
