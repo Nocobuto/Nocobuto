@@ -7,24 +7,24 @@
 <!-- TYPING EFFECT -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1F6FEB&size=24&center=true&vCenter=true&width=600&lines=Software+Developer;Frontend+Specialist;Future+Full+Stack+Engineer;Building+clean+web+experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1F6FEB&size=24&center=true&vCenter=true&width=650&lines=Software+Developer;Frontend+Specialist;Full+Stack+Engineer;Building+scalable+web+applications" />
 </p>
 
 ---
 
 # 👋 Hi, I'm Arturo
 
-💻 Frontend-focused developer building responsive, user-centered web applications.
-I enjoy transforming ideas into scalable digital products through clean code and thoughtful design.
+💻 **Full Stack Developer** focused on building scalable, maintainable, and user-centered web applications.
+I enjoy transforming ideas into production-ready systems through clean architecture and thoughtful UI design.
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Working on interactive web interfaces
-* 🌱 Learning **Python, MySQL and backend architecture**
-* 🎯 Goal: Become a **Full Stack Developer**
-* 🧠 Interested in performance, UI architecture, and clean code
+* 🔭 Developing full stack web applications
+* 🌱 Expanding backend architecture & database design skills
+* 🎯 Focused on production-quality code and real-world solutions
+* 🧠 Interested in performance, clean architecture, and scalable UI systems
 
 ---
 
@@ -50,10 +50,51 @@ I enjoy transforming ideas into scalable digital products through clean code and
 
 ---
 
+# ⭐ Featured Projects
+
+## 🔹 REST API Backend System
+
+Robust backend API implementing REST principles, routing, data persistence and modular architecture.
+
+![Node](https://img.shields.io/badge/Backend-Node.js-green?style=flat-square)
+![API](https://img.shields.io/badge/Architecture-REST-blue?style=flat-square)
+
+<a href="https://github.com/Nocobuto/api-rest">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nocobuto&repo=api-rest&theme=dark" />
+</a>
+
+---
+
+## 🔹 Space Invaders Browser Game
+
+Interactive browser game demonstrating DOM control, event handling, game loops and UI rendering logic.
+
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square)
+![Game](https://img.shields.io/badge/Type-Web%20Game-purple?style=flat-square)
+
+<a href="https://github.com/Nocobuto/space-invaders-pro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nocobuto&repo=space-invaders-pro&theme=dark" />
+</a>
+
+---
+
+## 🔹 URL Shortener Web App
+
+Full stack style application handling routing logic, input validation, and dynamic URL redirection.
+
+![WebApp](https://img.shields.io/badge/Type-Web%20Application-blue?style=flat-square)
+![JS](https://img.shields.io/badge/Stack-JavaScript-orange?style=flat-square)
+
+<a href="https://github.com/Nocobuto/url-shortener">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nocobuto&repo=url-shortener&theme=dark" />
+</a>
+
+---
+
 ## 🧠 Tech Stack
 
 <details>
-<summary>👨‍💻 Frontend</summary>
+<summary>Frontend</summary>
 
 <br>
 
@@ -65,7 +106,7 @@ I enjoy transforming ideas into scalable digital products through clean code and
 </details>
 
 <details>
-<summary>⚙️ Backend (Learning)</summary>
+<summary>Backend</summary>
 
 <br>
 
@@ -74,26 +115,6 @@ I enjoy transforming ideas into scalable digital products through clean code and
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 </details>
-
-<details>
-<summary>🧰 Tools</summary>
-
-<br>
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-0078D7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
-</details>
-
----
-
-## 📂 Featured Work
-
-* 🌐 Responsive landing pages
-* ⚛️ React interfaces
-* 🧩 Interactive JavaScript apps
-
-*(You can link your best repos here later)*
 
 ---
 
@@ -104,21 +125,14 @@ I enjoy transforming ideas into scalable digital products through clean code and
 
 ---
 
-## 👀 Profile Views
+<p align="center">
+⭐ If you like my work, follow me and check my repositories
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nocobuto&color=1f6feb&style=for-the-badge" />
 </p>
 
----
-
-<p align="center">
-⭐ If you like my work, follow me and check my repositories
-</p>
-
-<!-- FOOTER WAVE -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
 </p>
-
