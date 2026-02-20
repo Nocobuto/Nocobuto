@@ -46,12 +46,20 @@ from scratch — from database design to deployed frontend.
 **Stack:** Node.js · Express · MySQL · JWT · Postman
 
 <p align="center">
-  <a href="https://github.com/Nocobuto/api-rest">
+  <a href="https://api-rest-production-44e6.up.railway.app/api-docs" target="_blank">
     <img src="https://raw.githubusercontent.com/Nocobuto/Nocobuto/main/images/api-rest.png" width="800"/>
   </a>
 </p>
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-1f6feb?style=for-the-badge&logo=github)](https://github.com/Nocobuto/api-rest)
+<p align="center">
+  <a href="https://github.com/Nocobuto/api-rest">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repo-1f6feb?style=for-the-badge&logo=github" />
+  </a>
+  &nbsp;
+  <a href="https://api-rest-production-44e6.up.railway.app/api-docs">
+    <img src="https://img.shields.io/badge/Live-View%20Docs-success?style=for-the-badge&logo=swagger" />
+  </a>
+</p>
 
 ---
 
@@ -63,12 +71,20 @@ from scratch — from database design to deployed frontend.
 **Stack:** Vanilla JavaScript · HTML5 Canvas · CSS3
 
 <p align="center">
-  <a href="https://github.com/Nocobuto/space-invaders-pro">
+  <a href="https://space-invaders-pro.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/Nocobuto/Nocobuto/main/images/space-invaders.png" width="800"/>
   </a>
 </p>
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-1f6feb?style=for-the-badge&logo=github)](https://github.com/Nocobuto/space-invaders-pro)
+<p align="center">
+  <a href="https://github.com/Nocobuto/space-invaders-pro">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repo-1f6feb?style=for-the-badge&logo=github" />
+  </a>
+  &nbsp;
+  <a href="https://space-invaders-pro.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Play%20Now-success?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
 ---
 
@@ -79,13 +95,20 @@ from scratch — from database design to deployed frontend.
 **Stack:** React · Node.js · Express · MySQL
 
 <p align="center">
-  <a href="https://github.com/Nocobuto/url-shortener">
+  <a href="https://agb1.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/Nocobuto/Nocobuto/main/images/url-shortener.png" width="800"/>
   </a>
 </p>
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-1f6feb?style=for-the-badge&logo=github)](https://github.com/Nocobuto/url-shortener)
-[![Live](https://img.shields.io/badge/Live-Visit%20App-success?style=for-the-badge&logo=vercel)](https://landing-page-red-gamma-59.vercel.app)
+<p align="center">
+  <a href="https://github.com/Nocobuto/url-shortener">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repo-1f6feb?style=for-the-badge&logo=github" />
+  </a>
+  &nbsp;
+  <a href="https://agb1.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Visit%20App-success?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
 ---
 
