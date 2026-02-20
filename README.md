@@ -10,10 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=1F6FEB&size=24&center=true&vCenter=true&width=650&lines=Software+Developer;Frontend+Specialist;Full+Stack+Engineer;Building+scalable+web+applications" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge" />
-</p>
-
 ---
 
 # 👋 Hi, I'm Arturo
@@ -163,5 +159,4 @@ Application handling routing logic, validation flow, and dynamic URL redirection
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
 </p>
-
 
