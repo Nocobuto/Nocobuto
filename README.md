@@ -1,162 +1,142 @@
 <!-- BANNER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Arturo%20Bracamontes&fontSize=40&fontColor=ffffff" />
 </p>
 
 <!-- TYPING EFFECT -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1F6FEB&size=24&center=true&vCenter=true&width=650&lines=Software+Developer;Frontend+Specialist;Full+Stack+Engineer;Building+scalable+web+applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1F6FEB&size=22&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+MySQL;Building+real+products+that+solve+real+problems;Open+to+work+%F0%9F%9A%80" />
+</p>
+
+<!-- CONTACTO VISIBLE DESDE EL INICIO -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/arturo-bracamontes">
+    <img src="https://img.shields.io/badge/LinkedIn-Arturo%20Bracamontes-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://landing-page-red-gamma-59.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-1f6feb?style=for-the-badge&logo=vercel" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Nocobuto&color=1f6feb&style=for-the-badge" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Arturo
+## 👋 About Me
 
-💻 **Full Stack Developer specialized in building scalable web systems and intuitive user interfaces that improve usability, performance, and maintainability.**
+Full Stack Developer with hands-on experience building web applications
+from scratch — from database design to deployed frontend.
 
-I focus on writing clean, production-ready code and designing applications that solve real problems while delivering solid user experiences.
-
----
-
-## 🧠 Engineering Philosophy
-
-I believe good software should be readable, modular, scalable, and designed for real users — not just technically correct.
-
-I aim to build systems that are easy to maintain, easy to extend, and easy to understand by other developers.
+- 📍 Based in Mexico
+- 💻 Specialized in JavaScript, React and Node.js
+- 🔭 Currently focused on backend architecture and system design
+- 🤝 Open to Junior and Mid-level opportunities
+- ⚡ I learn fast, ship clean code, and care about the user experience
 
 ---
 
-## 🚀 What I Bring to a Team
+## 🚀 Featured Projects
 
-* Clean, maintainable, and readable code practices
-* Strong frontend logic and responsive UI mindset
-* Backend structure awareness and REST design fundamentals
-* Real-world problem solving approach
-* Fast learning and adaptability to new stacks
+### 🔹 REST API Backend System
+> Production-style REST API with authentication, modular route structure,
+> error handling middleware and MySQL integration.
+> Built following REST best practices and separation of concerns.
 
----
+**Stack:** Node.js · Express · MySQL · JWT · Postman
 
-## 🧩 Architecture Mindset
-
-* Component-driven UI structure
-* Separation of concerns in frontend & backend
-* Modular backend organization
-* Focus on scalability and maintainability
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-1f6feb?style=for-the-badge&logo=github)](https://github.com/Nocobuto/api-rest)
 
 ---
 
-## 🔭 Currently Working On
+### 🔹 Space Invaders Browser Game
+> Classic arcade game rebuilt from scratch in the browser.
+> No frameworks, no libraries — pure JavaScript and Canvas API.
+> Includes collision detection, score system and progressive difficulty.
 
-* Backend architecture patterns
-* Database design and query optimization
-* Production-style portfolio projects
-* Strengthening full stack integration skills
+**Stack:** Vanilla JavaScript · HTML5 Canvas · CSS3
 
----
-
-## 🧭 Learning Roadmap
-
-* Authentication & security patterns
-* Testing strategies
-* Deployment workflows
-* System design fundamentals
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-1f6feb?style=for-the-badge&logo=github)](https://github.com/Nocobuto/space-invaders-pro)
+[![Live](https://img.shields.io/badge/Live-Play%20Now-success?style=for-the-badge&logo=vercel)](https://landing-page-red-gamma-59.vercel.app)
 
 ---
 
-## 🌐 Portfolio & Contact
+### 🔹 URL Shortener Web Application
+> Full stack URL shortener with custom aliases, redirect tracking
+> and clean UI. Frontend deployed on Vercel, backend on Railway.
 
-🔗 https://landing-page-red-gamma-59.vercel.app
+**Stack:** React · Node.js · Express · MySQL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arturo-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/arturo-bracamontes)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-1f6feb?style=for-the-badge&logo=github)](https://github.com/Nocobuto/url-shortener)
+[![Live](https://img.shields.io/badge/Live-Visit%20App-success?style=for-the-badge&logo=vercel)](https://landing-page-red-gamma-59.vercel.app)
+
+---
+
+## 🧠 Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🧩 Engineering Approach
+```text
+Clean Code       ████████████████████  Always
+Component Design ████████████████████  Always  
+REST Principles  ███████████████░░░░░  Strong
+Testing          ████████░░░░░░░░░░░░  Growing
+System Design    ███████░░░░░░░░░░░░░  Growing
+```
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://stats-github-readme.vercel.app/api?username=Nocobuto&show_icons=true&theme=dark" />
+  <img src="https://stats-github-readme.vercel.app/api?username=Nocobuto&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nocobuto&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nocobuto&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=Nocobuto&layout=compact&theme=dark" />
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=Nocobuto&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-# ⭐ Featured Projects
-
-## 🔹 REST API Backend System
-
-Backend API implementing routing, modular structure, and REST architecture principles.
-
-<a href="https://github.com/Nocobuto/api-rest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nocobuto&repo=api-rest&theme=dark" />
-</a>
-
----
-
-## 🔹 Space Invaders Browser Game
-
-Interactive browser game demonstrating event handling, rendering logic, and user interaction systems.
-
-<a href="https://github.com/Nocobuto/space-invaders-pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nocobuto&repo=space-invaders-pro&theme=dark" />
-</a>
-
----
-
-## 🔹 URL Shortener Web Application
-
-Application handling routing logic, validation flow, and dynamic URL redirection.
-
-<a href="https://github.com/Nocobuto/url-shortener">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nocobuto&repo=url-shortener&theme=dark" />
-</a>
-
----
-
-## 🧠 Tech Stack
-
-<details>
-<summary>Frontend</summary>
-
-<br>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-
-</details>
-
-<details>
-<summary>Backend</summary>
-
-<br>
-
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-</details>
-
----
+## 🌐 Let's Connect
 
 <p align="center">
-⭐ If you like my work, follow me and explore my repositories
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nocobuto&color=1f6feb&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/arturo-bracamontes">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://landing-page-red-gamma-59.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
 </p>
-
