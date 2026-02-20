@@ -14,23 +14,45 @@
 
 # 👋 Hi, I'm Arturo
 
-💻 **Full Stack Developer** focused on building scalable, maintainable, and user-centered web applications.
-I enjoy transforming ideas into production-ready systems through clean architecture and thoughtful UI design.
+💻 **Full Stack Developer specialized in building scalable web systems and intuitive user interfaces that improve usability, performance, and maintainability.**
+
+I focus on writing clean, production-ready code and designing applications that solve real problems while delivering solid user experiences.
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Bring to a Team
 
-* 🔭 Developing full stack web applications
-* 🌱 Expanding backend architecture & database design skills
-* 🎯 Focused on production-quality code and real-world solutions
-* 🧠 Interested in performance, clean architecture, and scalable UI systems
+* Clean, maintainable, and readable code practices
+* Strong frontend logic and responsive design mindset
+* Backend structure understanding and API design fundamentals
+* Problem-solving approach focused on real-world solutions
+* Continuous learning mentality and fast adaptation to new stacks
+
+---
+
+## 🔭 Currently Working On
+
+* Improving backend architecture patterns
+* Practicing database design and query optimization
+* Building portfolio projects with production structure
+* Strengthening full stack integration skills
+
+---
+
+## 🧭 Learning Roadmap
+
+* Authentication & security patterns
+* Testing strategies for web applications
+* Deployment pipelines and hosting workflows
+* System design fundamentals for scalable apps
 
 ---
 
 ## 🌐 Portfolio
 
 🔗 https://landing-page-red-gamma-59.vercel.app
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arturo-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/arturo-bracamontes)
 
 ---
 
@@ -54,10 +76,7 @@ I enjoy transforming ideas into production-ready systems through clean architect
 
 ## 🔹 REST API Backend System
 
-Robust backend API implementing REST principles, routing, data persistence and modular architecture.
-
-![Node](https://img.shields.io/badge/Backend-Node.js-green?style=flat-square)
-![API](https://img.shields.io/badge/Architecture-REST-blue?style=flat-square)
+Backend API implementing routing, modular structure, and REST architecture principles.
 
 <a href="https://github.com/Nocobuto/api-rest">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nocobuto&repo=api-rest&theme=dark" />
@@ -67,10 +86,7 @@ Robust backend API implementing REST principles, routing, data persistence and m
 
 ## 🔹 Space Invaders Browser Game
 
-Interactive browser game demonstrating DOM control, event handling, game loops and UI rendering logic.
-
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square)
-![Game](https://img.shields.io/badge/Type-Web%20Game-purple?style=flat-square)
+Interactive browser game demonstrating event handling, game loops, and dynamic rendering logic.
 
 <a href="https://github.com/Nocobuto/space-invaders-pro">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nocobuto&repo=space-invaders-pro&theme=dark" />
@@ -78,12 +94,9 @@ Interactive browser game demonstrating DOM control, event handling, game loops a
 
 ---
 
-## 🔹 URL Shortener Web App
+## 🔹 URL Shortener Web Application
 
-Full stack style application handling routing logic, input validation, and dynamic URL redirection.
-
-![WebApp](https://img.shields.io/badge/Type-Web%20Application-blue?style=flat-square)
-![JS](https://img.shields.io/badge/Stack-JavaScript-orange?style=flat-square)
+Application handling routing logic, validation, and dynamic URL redirection flow.
 
 <a href="https://github.com/Nocobuto/url-shortener">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nocobuto&repo=url-shortener&theme=dark" />
@@ -118,15 +131,8 @@ Full stack style application handling routing logic, input validation, and dynam
 
 ---
 
-## 📫 Contact
-
-* 💼 LinkedIn: https://www.linkedin.com/in/arturo-bracamontes
-* 🌎 Portfolio: https://landing-page-red-gamma-59.vercel.app
-
----
-
 <p align="center">
-⭐ If you like my work, follow me and check my repositories
+⭐ If you like my work, follow me and explore my repositories
 </p>
 
 <p align="center">
@@ -136,3 +142,4 @@ Full stack style application handling routing logic, input validation, and dynam
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
 </p>
+
